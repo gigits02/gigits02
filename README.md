@@ -4,7 +4,7 @@
 💡 Passionate about continuous learning in scientifical emerging trends  
 🎯 Currently working for Machine Learning and Quantum Machine Learning projects  
 💞️ I’m looking to collaborate on new quantum-based challenges  
-📫 How to reach me: LuigiTarasi77@gmail.com 
+📫 How to reach me [gmail]: LuigiTarasi77@gmail.com 
 
 ## 📌 Recents projects
 - ⚛️ [Classsical/Quantum Ising model solved with different computational methods](https://github.com/gigits02/IsingModel)
