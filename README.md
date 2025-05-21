@@ -7,9 +7,9 @@
 📫 How to reach me: LuigiTarasi77@gmail.com 
 
 ## 📌 Recents projects
-- ⚛️ [Classical/Quantum Ising model solved with different numerical methods](https://github.com/gigits02/IsingModel)  
-- 🧠 [Neural Network for classification/regression tasks](https://github.com/gigits02/Mlproject)  
-- 🎨 [Graph Coloring with QAOA](https://github.com/gigits02/QMLproject)  
+- ⚛️ [Classical/Quantum Ising model solved with different numerical methods](https://github.com/gigits02/IsingModel) (Numerical methods, year 23-24)    
+- 🧠 [Neural Network for classification/regression tasks](https://github.com/gigits02/Mlproject) (ML, year 23-24)    
+- 🎨 [Graph Coloring with QAOA](https://github.com/gigits02/QMLproject) (QML, year 23-24)  
 
 ## 📊 GitHub Stats
 ![Luigi's stats](https://github-readme-stats.vercel.app/api?username=gigits02&show_icons=true&theme=github_dark)
