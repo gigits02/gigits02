@@ -7,7 +7,7 @@
 📫 How to reach me: LuigiTarasi77@gmail.com 
 
 ## 📌 Recents projects
-- ⚛️ [Classsical/Quantum Ising model solved with different computational methods](https://github.com/gigits02/IsingModel)  
+- ⚛️ [Classical/Quantum Ising model solved with different numerical methods](https://github.com/gigits02/IsingModel)  
 - 🧠 [Neural Network for classification/regression tasks](https://github.com/gigits02/Mlproject)  
 - 🎨 [Graph Coloring with QAOA](https://github.com/gigits02/QMLproject)  
 
