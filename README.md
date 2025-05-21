@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Luigi
 
 🎓 Physics student in Quantum Computing & Techs, University of Pisa  
-💡 Passionate about continuous learning in scientifical emerging trends 
-🎯 Currently working for Machine Learning and Quantum Machine Learning projects
-💞️ I’m looking to collaborate on new quantum-based challenges
+💡 Passionate about continuous learning in scientifical emerging trends  
+🎯 Currently working for Machine Learning and Quantum Machine Learning projects  
+💞️ I’m looking to collaborate on new quantum-based challenges  
 📫 How to reach me: LuigiTarasi77@gmail.com 
 
 ## 📌 Recents projects
