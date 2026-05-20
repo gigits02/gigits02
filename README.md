@@ -11,5 +11,3 @@
 - 🧠 [Neural Network for classification/regression tasks](https://github.com/gigits02/Mlproject) (ML, year 23-24)    
 - 🎨 [Graph Coloring with QAOA](https://github.com/gigits02/QMLproject) (QML, year 23-24)  
 
-## 📊 GitHub Stats
-![Luigi's stats](https://github-readme-stats.vercel.app/api?username=gigits02&show_icons=true&theme=github_dark)
